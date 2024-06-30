@@ -1,0 +1,248 @@
+# Arquivos de sistema operacional
+*.DS_Store
+Thumbs.db
+
+# Pastas de compilação
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Arquivos gerados pela compilação
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+*.userosscache
+*.slnx.sqlite
+*.dbmdl
+
+# Pacotes NuGet
+**/[Pp]ackages/*
+**/[Pp]ackages/
+!**/[Pp]ackages/build/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ferramentas de Rider e ReSharper
+.idea/
+*.DotSettings
+*.DotSettings.user
+
+# Ferramentas de Visual Studio Code
+.vscode/
+
+# Ferramentas de Visual Studio
+.vs/
+*.vcxproj.filters
+*.vcxproj.user
+*.vshost.*
+*.[Oo]pen[Cc]overage
+Generated_Code/
+
+# Ferramentas de Fleet
+.idea/
+
+# Ferramentas de build
+build/
+bld/
+[Bb]uild[Ll]og.*
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.scc
+
+# Outros arquivos e pastas
+*.cache
+*.bak
+*.ncb
+*.log
+*.csv
+*.dat
+*.dmp
+*.err
+*.ldf
+*.mdf
+*.sdf
+*.xml
+*.pidb
+*.svclog
+*.scc
+*.swp
+*.dot
+*.dotx
+*.docx
+*.xlsx
+*.pdf
+*.rtf
+*.pptx
+*.vdx
+*.vsd
+*.db
+*.jfm
+*.tps
+*.pfx
+*.publishsettings
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Pastas específicas do projeto
+node_modules/
+jspm_packages/
+
+# Arquivos de publicação
+*.Publish.xml
+*.pubxml
+publish/
+
+# Todos os arquivos .config (exceto Web.config)
+*.config
+!Web.config
+
+# Arquivos de certificados
+*.pem
+*.cer
+*.crt
+*.p12
+*.pfx
+*.p7b
+*.srl
+*.stl
+*.key
+*.der
+
+# Arquivos de token de acesso
+*.token
+*.access_token
+*.auth
+
+# Arquivos de perfil do Azure
+*.azurePubxml
+*.pubxml
+*.publishsettings
+
+# Arquivos de cache locais do TypeScript
+*.tsbuildinfo
+
+# Arquivos de cobertura de código
+coverage/
+*.coverage
+*.coveragexml
+
+# Arquivos de saída do Jekyll
+_site/
+
+# Arquivos de saída do bundle
+bundle/
+
+# Arquivos de saída do Grunt
+grunt/
+
+# Arquivos de saída do SASS
+.sass-cache/
+
+# Arquivos de saída do npm
+npm-debug.log
+npm-debug.log.*
+
+# Arquivos de saída do yarn
+.yarn/
+.yarn-integrity
+.yarn-metadata.json
+.yarnignore
+.yarnrc
+.yarnrc.yml
+.yarn.lock
+
+# Arquivos de saída do bower
+bower_components/
+
+# Arquivos de saída do dotenv
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de saída do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de saída do Ruby
+/.bundle/
+/vendor/bundle
+/lib/bundle
+*.gem
+*.rbc
+/.config
+/coverage/
+/CachedCucumberReport.json
+/vendor/ruby/
+
+# Arquivos de saída do Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Arquivos de saída do Flask
+instance/
+.webassets-cache
+
+# Arquivos de saída do Scrapy
+.scrapy
+
+# Arquivos de saída do Sphinx
+docs/_build/
+
+# Arquivos de saída do Cargo
+/target/
+
+# Arquivos de saída do PEP
+*.egg-info/
+*.eggs/
+*.wheel/
+dist/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+*.manifest
+*.spec
+
+# Arquivos de saída do Jupyter Notebook
+.ipynb_checkpoints
